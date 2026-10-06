@@ -1,0 +1,18 @@
+Item,Qty,Specification,Purpose,Status,Notes
+Orpheus Pico 2,1,Hack Club Orpheus Pico 2 RP2040 USB-C controller,USB HID brain,Selected,Identical Pico footprint; USB-C rear
+Cherry MX2A Black MX2A-11NB,6,5-pin PCB-mount linear black switch,Six keys,Selected,PCB footprint includes both plastic locating pins
+DSA keycap,6,MX-compatible 1u,Key tops,Request,Uniform profile
+1N4148 through-hole diode,6,DO-35 7.62 mm,Matrix anti-ghosting,Request,One per switch
+Waveshare 0.91 inch OLED SKU 14657,1,SSD1306 128x32 white I2C 36x12.5 mm,Status screen,Selected,PH2.0 cable required; wire by signal not connector position
+Custom PCB,1,2x3 matrix with OLED header,Electrical assembly,Fabrication,Generate after DRC
+Case and top plate,1,Base plus plate plus two OLED side clamps,Enclosure,Fabrication,Use v1.2 STEP and STL exports
+M3x16 mm screw,4,M3 stainless or equivalent,Case assembly,Request,Final count depends on case
+M3 heat-set insert,4,M3x5x4 mm,Threaded case mount,Request,Final count depends on case
+USB-C data cable,1,USB 2.0 data capable,Connect keyboard,Request,Not charge-only
+Solder and hookup wire,1,Assembly supplies,Build and repair,Optional,May already be available
+Adafruit 5583 Pico socket headers,2,1x20 female 2.54 mm,Underside controller mounting,Selected,Kit supplies two socket strips
+Adafruit 5584 short male headers,2,1x20 male 2.54 mm,Controller mating pins,Selected,Use if Orpheus has no headers
+M2 screw,2,M2x8 suitable for 1.7 mm plastic pilots,OLED side clamps,Required,Do not substitute longer screws
+Foam pad,1,Nonconductive compressible pad cut to suit OLED,OLED retention,Required,Do not press on glass or components
+Rubber foot,4,Approximately 8 mm adhesive foot,Desk grip,Optional,Base recesses 8.2 mm diameter
+4.7k resistor,2,Axial DIN0207 7.62 mm lead pitch,Optional I2C pullups,DNP,Fit underside only if OLED lacks pullups

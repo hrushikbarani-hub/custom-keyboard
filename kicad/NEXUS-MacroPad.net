@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Hrushi\Documents\Codex\2026-10-05\us\outputs\NEXUS-KiCad\NEXUS-MacroPad.kicad_sch</source>
+    <date>2026-10-05T20:22:11</date>
+    <tool>Eeschema 10.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>NEXUS 2x3 Macro Deck</title>
+        <company>Hrushi / NEXUS</company>
+        <rev>1.0</rev>
+        <date>2026-10-05</date>
+        <source>NEXUS-MacroPad.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>NEXUS:D_1N4148</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:D_1N4148</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6312a27-2309-5897-bf72-cb259d4af8c7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>NEXUS:D_1N4148</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:D_1N4148</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efc148ca-0806-570a-a689-7c141f9198dc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>NEXUS:D_1N4148</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:D_1N4148</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a04756c-797e-5bbe-9d97-c4577f99aa00</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148</value>
+      <footprint>NEXUS:D_1N4148</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:D_1N4148</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a31b3ba-4fa2-5f4b-a1c0-2aed1dc6a650</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148</value>
+      <footprint>NEXUS:D_1N4148</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:D_1N4148</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c12bf88-aebb-5c63-96f2-8766b2d3c543</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148</value>
+      <footprint>NEXUS:D_1N4148</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:D_1N4148</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e63adbc0-431e-5b03-8efc-568ddb37817c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>OLED wires: GND VCC SCL SDA</value>
+      <footprint>NEXUS:OLED_WirePads</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:OLED_WirePads</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9fe0217-69e6-5527-b13a-6ef9050f3d28</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>4.7k DNP</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75da69b9-035c-55c5-a493-f0816187a4f8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>4.7k DNP</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5613549-8c85-5b5a-ab93-387fc26ce349</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW1">
+      <value>MX 1u</value>
+      <footprint>NEXUS:MX_1u</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:MX_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba6b5e47-a973-5785-919f-196c5d15da28</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW2">
+      <value>MX 1u</value>
+      <footprint>NEXUS:MX_1u</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:MX_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fa1c0bb-190d-5b3a-a5f5-2d58b4c18726</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW3">
+      <value>MX 1u</value>
+      <footprint>NEXUS:MX_1u</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:MX_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e96dd53-2baf-54a4-960e-8b837cbafdc4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW4">
+      <value>MX 1u</value>
+      <footprint>NEXUS:MX_1u</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:MX_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3170f72c-064d-5305-bffc-a3e54311c2ea</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW5">
+      <value>MX 1u</value>
+      <footprint>NEXUS:MX_1u</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:MX_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>470e0ee3-0d82-574b-b167-e05fa7f8bc82</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW6">
+      <value>MX 1u</value>
+      <footprint>NEXUS:MX_1u</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:MX_1u</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58e6ee74-1d13-522d-92e2-1d4db4bd064d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>Orpheus Pico / Pico compatible</value>
+      <footprint>NEXUS:Pico_Underside_Carrier</footprint>
+      <fields>
+        <field name="Footprint">NEXUS:Pico_Underside_Carrier</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MCU_Module" part="RaspberryPi_Pico" description="Versatile and inexpensive microcontroller module powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2"/>
+      <property name="Sheetname" value="NEXUS-MacroPad"/>
+      <property name="Sheetfile" value="NEXUS-MacroPad.kicad_sch"/>
+      <property name="ki_keywords" value="RP2350A M33 RISC-V Hazard3 usb"/>
+      <property name="ki_fp_filters" value="RaspberryPi?Pico?Common* RaspberryPi?Pico?SMD*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6cad07a-2217-5576-ab66-9d2b99663f69</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="30"/>
+            <pin num="37"/>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="39"/>
+            <pin num="40"/>
+            <pin num="3"/>
+            <pin num="23"/>
+            <pin num="28"/>
+            <pin num="18"/>
+            <pin num="13"/>
+            <pin num="38"/>
+            <pin num="8"/>
+            <pin num="36"/>
+            <pin num="21"/>
+            <pin num="22"/>
+            <pin num="24"/>
+            <pin num="25"/>
+            <pin num="26"/>
+            <pin num="27"/>
+            <pin num="29"/>
+            <pin num="35"/>
+            <pin num="31"/>
+            <pin num="32"/>
+            <pin num="34"/>
+            <pin num="33"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Diode</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Module" part="RaspberryPi_Pico">
+      <description>Versatile and inexpensive microcontroller module powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2</description>
+      <docs>https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf</docs>
+      <footprints>
+        <fp>RaspberryPi?Pico?Common*</fp>
+        <fp>RaspberryPi?Pico?SMD*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">RaspberryPi_Pico</field>
+        <field name="Footprint">Module:RaspberryPi_Pico_Common_Unspecified</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf</field>
+        <field name="Description">Versatile and inexpensive microcontroller module powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_out"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="GPIO6" type="bidirectional"/>
+        <pin num="10" name="GPIO7" type="bidirectional"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GND" type="passive"/>
+        <pin num="14" name="GPIO10" type="bidirectional"/>
+        <pin num="15" name="GPIO11" type="bidirectional"/>
+        <pin num="16" name="GPIO12" type="bidirectional"/>
+        <pin num="17" name="GPIO13" type="bidirectional"/>
+        <pin num="18" name="GND" type="passive"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="GPIO15" type="bidirectional"/>
+        <pin num="21" name="GPIO16" type="bidirectional"/>
+        <pin num="22" name="GPIO17" type="bidirectional"/>
+        <pin num="23" name="GND" type="passive"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GND" type="passive"/>
+        <pin num="29" name="GPIO22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="passive"/>
+        <pin num="31" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="32" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_out"/>
+        <pin num="34" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3" type="power_out"/>
+        <pin num="37" name="3V3_EN" type="passive"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>${KICAD10_SYMBOL_DIR}/Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Module">
+      <uri>${KICAD10_SYMBOL_DIR}/MCU_Module.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>${KICAD10_SYMBOL_DIR}/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/+3V3" class="Default">
+      <node ref="J1" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="3V3_36" pintype="power_out"/>
+    </net>
+    <net code="2" name="/COL0" class="Default">
+      <node ref="SW1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GPIO8_11" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/COL1" class="Default">
+      <node ref="SW2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GPIO9_12" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/COL2" class="Default">
+      <node ref="SW3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GPIO10_14" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/GND" class="Default">
+      <node ref="J1" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="GND_13" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="GND_18" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="GND_23" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="GND_28" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND_3" pintype="power_out"/>
+      <node ref="U1" pin="38" pinfunction="GND_38" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GND_8" pintype="passive"/>
+    </net>
+    <net code="6" name="/KEY1" class="Default">
+      <node ref="D1" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="7" name="/KEY2" class="Default">
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="8" name="/KEY3" class="Default">
+      <node ref="D3" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="9" name="/KEY4" class="Default">
+      <node ref="D4" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="10" name="/KEY5" class="Default">
+      <node ref="D5" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="11" name="/KEY6" class="Default">
+      <node ref="D6" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="12" name="/ROW0" class="Default">
+      <node ref="D1" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GPIO6_9" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/ROW1" class="Default">
+      <node ref="D4" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GPIO7_10" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/SCL" class="Default">
+      <node ref="J1" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO5_7" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/SDA" class="Default">
+      <node ref="J1" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPIO4_6" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="unconnected-(U1-3V3_EN-Pad37)" class="Default">
+      <node ref="U1" pin="37" pinfunction="3V3_EN_37" pintype="passive+no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(U1-ADC_VREF-Pad35)" class="Default">
+      <node ref="U1" pin="35" pinfunction="ADC_VREF_35" pintype="power_in+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(U1-AGND-Pad33)" class="Default">
+      <node ref="U1" pin="33" pinfunction="AGND_33" pintype="power_out+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(U1-GPIO0-Pad1)" class="Default">
+      <node ref="U1" pin="1" pinfunction="GPIO0_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(U1-GPIO1-Pad2)" class="Default">
+      <node ref="U1" pin="2" pinfunction="GPIO1_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(U1-GPIO2-Pad4)" class="Default">
+      <node ref="U1" pin="4" pinfunction="GPIO2_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(U1-GPIO3-Pad5)" class="Default">
+      <node ref="U1" pin="5" pinfunction="GPIO3_5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(U1-GPIO11-Pad15)" class="Default">
+      <node ref="U1" pin="15" pinfunction="GPIO11_15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(U1-GPIO12-Pad16)" class="Default">
+      <node ref="U1" pin="16" pinfunction="GPIO12_16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(U1-GPIO13-Pad17)" class="Default">
+      <node ref="U1" pin="17" pinfunction="GPIO13_17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U1-GPIO14-Pad19)" class="Default">
+      <node ref="U1" pin="19" pinfunction="GPIO14_19" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U1-GPIO15-Pad20)" class="Default">
+      <node ref="U1" pin="20" pinfunction="GPIO15_20" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U1-GPIO16-Pad21)" class="Default">
+      <node ref="U1" pin="21" pinfunction="GPIO16_21" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U1-GPIO17-Pad22)" class="Default">
+      <node ref="U1" pin="22" pinfunction="GPIO17_22" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U1-GPIO18-Pad24)" class="Default">
+      <node ref="U1" pin="24" pinfunction="GPIO18_24" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U1-GPIO19-Pad25)" class="Default">
+      <node ref="U1" pin="25" pinfunction="GPIO19_25" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U1-GPIO20-Pad26)" class="Default">
+      <node ref="U1" pin="26" pinfunction="GPIO20_26" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U1-GPIO21-Pad27)" class="Default">
+      <node ref="U1" pin="27" pinfunction="GPIO21_27" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U1-GPIO22-Pad29)" class="Default">
+      <node ref="U1" pin="29" pinfunction="GPIO22_29" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U1-GPIO26_ADC0-Pad31)" class="Default">
+      <node ref="U1" pin="31" pinfunction="GPIO26_ADC0_31" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U1-GPIO27_ADC1-Pad32)" class="Default">
+      <node ref="U1" pin="32" pinfunction="GPIO27_ADC1_32" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U1-GPIO28_ADC2-Pad34)" class="Default">
+      <node ref="U1" pin="34" pinfunction="GPIO28_ADC2_34" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U1-RUN-Pad30)" class="Default">
+      <node ref="U1" pin="30" pinfunction="RUN_30" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U1-VBUS-Pad40)" class="Default">
+      <node ref="U1" pin="40" pinfunction="VBUS_40" pintype="power_out+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U1-VSYS-Pad39)" class="Default">
+      <node ref="U1" pin="39" pinfunction="VSYS_39" pintype="power_in+no_connect"/>
+    </net>
+  </nets>
+</export>
