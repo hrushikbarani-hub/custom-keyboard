@@ -26,5 +26,3 @@ Media: previous, play/pause, next, volume down, volume up, mute.
 - [x] Case CAD (v1.1; physical fit pending)
 - [x] Firmware source prepared
 - [ ] Physical assembly and testing
-
-Native KiCad and revised case deliverables are in `C:/Users/Hrushi/Documents/Codex/2026-10-05/us/outputs/`. Exact supplied hardware measurements, physical fit verification, and firmware remain outstanding.
